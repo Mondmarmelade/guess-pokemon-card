@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import { Routes, Route, Link } from "react-router-dom";
 
 import GamePage from "./Pages/GamePage";
